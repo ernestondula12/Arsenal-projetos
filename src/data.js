@@ -3,7 +3,7 @@ const projetos = [
       id: 1,
       title: 'Sistema de gestão de membros',
       img: './images/gestaoMembros.png',
-      description: "Um sistena que visa gerenciar todos os membros da igreja",
+      description: "Um sistema que visa gerenciar todos os membros da igreja",
       site: "https://github.com/ernestondula12/Sistema-de-gest-o-de-membros.git"
     },
     {
@@ -33,7 +33,14 @@ const projetos = [
     img: './images/projeto4.png',
     description: 'Um site ficticio para comercio eletronico, nesta página web front-end testei as minhas habilidades em trabalhar com React, Bootstrap e Vite',
     site: "https://shop-mu-two-50.vercel.app/"
-  }
+  },
+  {
+    id: 6,
+    title: "Amazon Best Sellers",
+    img: './images/AbestSeller.png',
+    description: 'Uma pequena aplicação de clonagem da Amazon para mostrar os livros mais vendidos',
+    site: "https://best-sellers-lyart.vercel.app/"
+  },
   ]
 
   export default projetos;
