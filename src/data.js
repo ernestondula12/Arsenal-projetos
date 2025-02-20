@@ -8,8 +8,8 @@ const projetos = [
     },
     {
       id: 2,
-      title: 'GestPizza site para gestão de pizzarias',
-      img: './images/DelciasdaBanda.png',
+      title: 'GestPizza',
+      img: './images/GestPizza.png',
       description: 'Um site especifico para gerenciamento de uma pizzaria ou restaurente, usei tecnologias como React, SASS E PostgreSQL',
       site: "https://gestpizza-frontend.vercel.app/"
     },
