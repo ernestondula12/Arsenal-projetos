@@ -41,6 +41,13 @@ const projetos = [
     description: 'Uma pequena aplicação de clonagem da Amazon para mostrar os livros mais vendidos,fiz esta aplicação para testar as minhas habilidades com React,na estruturação de pastas e componentes',
     site: "https://best-sellers-lyart.vercel.app/"
   },
+  {
+    id: 7,
+    title: "Turismo Angola",
+    img: "./images/TurismoAngola.png",
+    description: 'Uma pequena página web front-end para turismo em angola, um projeto html,css transformado em projeto react',
+    site: "https://turismoangola-4gkl.vercel.app/"
+  }
   ]
 
   export default projetos;
