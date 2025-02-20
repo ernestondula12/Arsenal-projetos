@@ -44,7 +44,7 @@ const projetos = [
   {
     id: 7,
     title: "Turismo Angola",
-    img: "./images/TurismosAngola.png",
+    img: "./images/TurismoAngola.png",
     description: 'Uma pequena página web front-end para turismo em angola, um projeto html,css transformado em projeto react',
     site: "https://turismoangola-4gkl.vercel.app/"
   }
