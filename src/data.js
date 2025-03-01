@@ -47,6 +47,13 @@ const projetos = [
     img: "./images/TurismoAngola.png",
     description: 'Uma pequena página web front-end para turismo em angola, um projeto html,css transformado em projeto react',
     site: "https://turismoangola-4gkl.vercel.app/"
+  },
+  {
+    id: 8,
+    title: "Budd-Birthday",
+    img: "./images/buddy-birthday.png",
+    description: 'Lista de Aniversariantes com React trabalhando com useState para limpar a lista.',
+    site: "https://buddy-birthday.vercel.app/"
   }
   ]
 
