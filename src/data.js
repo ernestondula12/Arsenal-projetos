@@ -54,6 +54,13 @@ const projetos = [
     img: "./images/buddy-birthday.png",
     description: 'Lista de Aniversariantes com React trabalhando com useState para limpar a lista.',
     site: "https://buddy-birthday.vercel.app/"
+  },
+  {
+    id: 9,
+    title: "Tours",
+    img: "./images/Passeios.png",
+    description: 'Página Front-End de passeios',
+    site: "https://tours-nine-opal.vercel.app/"
   }
   ]
 
