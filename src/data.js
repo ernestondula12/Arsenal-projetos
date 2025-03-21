@@ -61,7 +61,14 @@ const projetos = [
     img: "./images/Passeios.png",
     description: 'Página Front-End de passeios',
     site: "https://tours-nine-opal.vercel.app/"
-  }
+  },
+  {
+    id: 10,
+    title: "Gerador de Texto",
+    img: "./images/GeradoresTexto.png",
+    description: 'Aplicação Front-end para gerador de Texto',
+    site: "https://gerador-lore-impsum.vercel.app/"
+  },
   ]
 
   export default projetos;
