@@ -73,7 +73,7 @@ const projetos = [
     id: 11,
     title: "Gerador de Cores",
     img: "./images/GeradorCor.png",
-    description: 'Aplicação Front-end para gerador paleta de cores',
+    description: 'Aplicação Front-end para gerar paleta de cores',
     site: "https://gerador-de-cores-eight.vercel.app/"
   },
   ]
