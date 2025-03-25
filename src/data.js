@@ -76,6 +76,13 @@ const projetos = [
     description: 'Aplicação Front-end para gerar paleta de cores',
     site: "https://gerador-de-cores-eight.vercel.app/"
   },
+  {
+    id: 12,
+    title: "Lista de Compras",
+    img: "./images/ListaCompras.png",
+    description: 'Aplicação Front-end para lista de compras',
+    site: "https://lista-compras-sandy.vercel.app/"
+  },
   ]
 
   export default projetos;
