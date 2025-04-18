@@ -83,6 +83,48 @@ const projetos = [
     description: 'Aplicação Front-end para lista de compras',
     site: "https://lista-compras-sandy.vercel.app/"
   },
+  {
+    id: 13,
+    title: "Carrinho de compras",
+    img: "./images/CarrinhoCompras.png",
+    description: 'Um carrinho de compras usando useReducer',
+    site: "https://carrinhode-compras-iota.vercel.app/"
+  },
+  {
+    id: 14,
+    title: "Barra de Navegação com usando contextAPI",
+    img: "./images/CarrinhoCompras.png",
+    description: 'Barra de navegação simples e interativa',
+    site: "https://navega-o-f-cil.vercel.app/"
+  },
+  {
+    id: 15,
+    title: "Strapi SubMenu",
+    img: "./images/CarrinhoCompras.png",
+    description: 'Barra de navegação baseada no site do CMS Strapi',
+    site: "https://strapi-submenus-puce.vercel.app/"
+  },
+  {
+    id: 16,
+    title: "Strapi SubMenu",
+    img: "./images/CarrinhoCompras.png",
+    description: 'Barra de navegação baseada no site do CMS Strapi',
+    site: "https://strapi-submenus-puce.vercel.app/"
+  },
+  {
+    id: 17,
+    title: "Questões",
+    img: "./images/Questões.png",
+    description: 'Nesta pequena aplicação usei useState também controlando o estado usuario quando clica no botõa para visualizar o resposta.',
+    site: "https://questions-mocha.vercel.app/"
+  },
+  {
+    id: 18,
+    title: "Cardápio Online",
+    img: "./images/CardapioOnline.png",
+    description: 'Nesta pequena aplicação usei useState controlando o estado dos menus e categorias filtrando-as de forma eficaz',
+    site: "https://menu-online-ten.vercel.app/"
+  },
   ]
 
   export default projetos;
